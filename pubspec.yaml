@@ -1,6 +1,6 @@
 name: crashlytics
 description: Flutter plugin for (Fabric) Crashlytics on Android and iOS.
-version: 0.0.2
+version: 0.0.3
 author: kikuchy <kikuchy.h@gmail.com>
 homepage: https://github.com/kikuchy/crashlytics
 
