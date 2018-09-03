@@ -15,8 +15,6 @@ Flutter plugin for (Firebase) Crashlytics on Android and iOS.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'Fabric', '~> 1.7.7'
-  s.dependency 'Crashlytics', '~> 3.10.2'
   
   s.ios.deployment_target = '8.0'
 end
